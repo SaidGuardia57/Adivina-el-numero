@@ -76,6 +76,17 @@ Cada integrante trabajó en una parte específica:
 
 ---
 
+## Integrantes del grupo
+
+- Adriana Cervera
+- David Pilo
+- Gian Pitti
+- Jerry Cedeño
+- Maria Cedeño
+- Said Guardia
+
+---
+
 ## Notas
 
 - El archivo .gitignore se utilizó para evitar subir archivos innecesarios  

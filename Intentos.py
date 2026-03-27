@@ -8,9 +8,9 @@ def manejar_intentos(numero_secreto, minimo, maximo):
             numero = int(input(f"Adivina el número ({minimo}-{maximo}): "))
         except:
             print("Ingresa un número válido.\n")
-            continue
-
-        if numero == numero_secreto:
+            continue 
+ 
+         if numero == numero_secreto:
             print("¡Correcto! Adivinaste el número ")
             return True
 

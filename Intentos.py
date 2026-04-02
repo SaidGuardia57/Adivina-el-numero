@@ -10,7 +10,7 @@ def manejar_intentos(numero_secreto, minimo, maximo):
             print("Ingresa un número válido.\n")
             continue 
  
-         if numero == numero_secreto:
+        if numero == numero_secreto:
             print("¡Correcto! Adivinaste el número ")
             return True
 

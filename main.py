@@ -1,10 +1,10 @@
 #main.py
 
-from dificultad import elegir_dificultad
+from Dificultad import elegir_dificultad
 from numero_secreto import generar_numero
-from intentos import manejar_intentos
+from Intentos import manejar_intentos
 from repetir_juego import preguntar_repetir
-from mensajes import bienvenida
+from mensaje import bienvenida
 
 
 def jugar():
@@ -28,5 +28,5 @@ def main():
             print("\n--- Nuevo juego ---\n")
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()

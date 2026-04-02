@@ -5,7 +5,6 @@ from numero_secreto import generar_numero
 from Intentos import manejar_intentos
 from repetir_juego import preguntar_repetir
 from mensaje import bienvenida
-from repetir_numero import preguntar_repetir
 
 
 def jugar():
